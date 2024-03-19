@@ -1,4 +1,4 @@
-Title: Nike Sales Dashboard - Product Region Sales Projection
+#Title: Nike Sales Dashboard - Product Region Sales Projection
 
 Description:
 The Nike Sales Dashboard provides a comprehensive overview of product sales across various regions, projecting sales trends over the course of the year. It encompasses a detailed analysis of sales methods, retail channels, and product types sold, offering valuable insights into Nike's market performance and consumer preferences.
